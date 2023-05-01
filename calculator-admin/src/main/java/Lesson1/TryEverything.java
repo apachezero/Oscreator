@@ -19,6 +19,7 @@ public class TryEverything {
         System.out.println(hashCode);
         System.out.println(hashCode1);
         System.out.println(student==student1);
+
 //        PrintAnything<Long> p = new PrintAnything<>(10000L);
 //        PrintAnything<Double> d = new PrintAnything<>(10000.0);
 //        PrintAnything<Integer> i = new PrintAnything<>(100);
